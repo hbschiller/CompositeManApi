@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RTDApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+138c7a838184667d8dec601645a8dab6ffd2258e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RTDApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RTDApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
