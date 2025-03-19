@@ -43,3 +43,11 @@ appsettings.local.json
 
 # Node modules if you have client-side code
 node_modules/
+
+# JetBrains
+.idea/
+*.sln.iml
+*.csproj.user
+*.DotSettings.user
+_ReSharper*/
+*.[Rr]e[Ss]harper
