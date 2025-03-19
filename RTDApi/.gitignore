@@ -46,6 +46,7 @@ node_modules/
 
 # JetBrains
 .idea/
+.run/
 *.sln.iml
 *.csproj.user
 *.DotSettings.user
